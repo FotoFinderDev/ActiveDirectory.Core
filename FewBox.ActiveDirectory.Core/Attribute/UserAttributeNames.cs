@@ -1,4 +1,4 @@
-﻿namespace FewBox.ActiveDirectory.Core.Attribute
+﻿namespace ActiveDirectory.NETStandard.Attribute
 {
     /// <summary>
     /// The names of User AD object common attribute.

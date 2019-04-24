@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FewBox.ActiveDirectory.Core.Object
+namespace ActiveDirectory.NETStandard.Object
 {
     [Flags]
     enum BuildInGroupType

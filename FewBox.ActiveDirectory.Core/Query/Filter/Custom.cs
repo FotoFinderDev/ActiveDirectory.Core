@@ -1,7 +1,7 @@
-﻿using FewBox.ActiveDirectory.Core.Attribute;
+﻿using ActiveDirectory.NETStandard.Attribute;
 using System;
 
-namespace FewBox.ActiveDirectory.Core.Query.Filter
+namespace ActiveDirectory.NETStandard.Query.Filter
 {
     /// <summary>
     /// The AD custom filter, you can add native fitler string.

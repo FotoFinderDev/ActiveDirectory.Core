@@ -1,6 +1,6 @@
 ﻿using System.DirectoryServices;
 
-namespace FewBox.ActiveDirectory.Core.Object
+namespace ActiveDirectory.NETStandard.Object
 {
     public class MSMQQueueAlias : ActiveDirectoryObject
     {

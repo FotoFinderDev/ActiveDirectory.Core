@@ -1,4 +1,4 @@
-﻿namespace FewBox.ActiveDirectory.Core.Attribute
+﻿namespace ActiveDirectory.NETStandard.Attribute
 {
     /// <summary>
     /// MSMQQueueAlias Object Attribute const values.

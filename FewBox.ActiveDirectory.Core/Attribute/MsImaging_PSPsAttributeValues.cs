@@ -1,4 +1,4 @@
-﻿namespace FewBox.ActiveDirectory.Core.Attribute
+﻿namespace ActiveDirectory.NETStandard.Attribute
 {
     /// <summary>
     /// MsImaging-PSPs Object Attribute const values.

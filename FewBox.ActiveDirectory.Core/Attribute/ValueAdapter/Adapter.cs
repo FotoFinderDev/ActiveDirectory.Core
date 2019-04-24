@@ -1,6 +1,6 @@
 ﻿using System.DirectoryServices;
 
-namespace FewBox.ActiveDirectory.Core.Attribute.ValueAdapter
+namespace ActiveDirectory.NETStandard.Attribute.ValueAdapter
 {
     abstract class Adapter<T>
     {

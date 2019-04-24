@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FewBox.ActiveDirectory.Core.Object
+namespace ActiveDirectory.NETStandard.Object
 {
     /// <summary>
     /// The user account control type.

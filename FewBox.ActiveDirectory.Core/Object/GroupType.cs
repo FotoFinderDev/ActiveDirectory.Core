@@ -1,4 +1,4 @@
-﻿namespace FewBox.ActiveDirectory.Core.Object
+﻿namespace ActiveDirectory.NETStandard.Object
 {
     /// <summary>
     /// The group typ.

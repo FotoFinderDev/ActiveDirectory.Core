@@ -10,6 +10,12 @@
     <RepositoryUrl>https://github.com/FotoFinderDev/ActiveDirectory.Core</RepositoryUrl>
     <RepositoryType>Public</RepositoryType>
     <PackageReleaseNotes />
+    <AssemblyName>ActiveDirectory.NETStandard</AssemblyName>
+    <RootNamespace>ActiveDirectory.NETStandard</RootNamespace>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.DirectoryServices" Version="4.5.0" />
+  </ItemGroup>
 
 </Project>

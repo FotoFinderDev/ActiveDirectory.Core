@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FewBox.TestFramwork.Configuration
+namespace ActiveDirectory.Core.TestFramework.Configuration
 {
     public class KeyReduplicateException : Exception
     {

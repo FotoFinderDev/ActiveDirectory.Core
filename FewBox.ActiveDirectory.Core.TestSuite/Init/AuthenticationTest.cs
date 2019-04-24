@@ -1,8 +1,8 @@
-﻿using FewBox.ActiveDirectory.Core.Authentication;
-using FewBox.TestFramwork.Configuration;
+﻿using ActiveDirectory.NETStandard.Authentication;
+using ActiveDirectory.Core.TestFramework.Configuration;
 using NUnit.Framework;
 
-namespace FewBox.ActiveDirectory.Core.TestSuite.Init
+namespace ActiveDirectory.NETStandard.TestSuite.Init
 {
     [TestFixture]
     class AuthenticationTest

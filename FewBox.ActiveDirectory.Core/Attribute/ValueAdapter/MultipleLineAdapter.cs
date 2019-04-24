@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.DirectoryServices;
 
-namespace FewBox.ActiveDirectory.Core.Attribute.ValueAdapter
+namespace ActiveDirectory.NETStandard.Attribute.ValueAdapter
 {
     class MultipleLineAdapter : Adapter<IList<string>>
     {

@@ -1,13 +1,13 @@
-﻿using FewBox.ActiveDirectory.Core.Attribute;
-using FewBox.ActiveDirectory.Core.Attribute.ValueAdapter;
-using FewBox.ActiveDirectory.Core.Query;
-using FewBox.ActiveDirectory.Core.Query.Filter;
+﻿using ActiveDirectory.NETStandard.Attribute;
+using ActiveDirectory.NETStandard.Attribute.ValueAdapter;
+using ActiveDirectory.NETStandard.Query;
+using ActiveDirectory.NETStandard.Query.Filter;
 using System;
 using System.Collections.Generic;
 using System.DirectoryServices;
 using System.Linq;
 
-namespace FewBox.ActiveDirectory.Core.Object
+namespace ActiveDirectory.NETStandard.Object
 {
     public abstract class ActiveDirectoryObject : IDisposable
     {

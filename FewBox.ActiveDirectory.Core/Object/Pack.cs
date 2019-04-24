@@ -1,9 +1,9 @@
-﻿using FewBox.ActiveDirectory.Core.Attribute;
-using FewBox.ActiveDirectory.Core.Query.Filter;
+﻿using ActiveDirectory.NETStandard.Attribute;
+using ActiveDirectory.NETStandard.Query.Filter;
 using System.Collections.Generic;
 using System.DirectoryServices;
 
-namespace FewBox.ActiveDirectory.Core.Object
+namespace ActiveDirectory.NETStandard.Object
 {
     public abstract class Pack : PackContainer
     {

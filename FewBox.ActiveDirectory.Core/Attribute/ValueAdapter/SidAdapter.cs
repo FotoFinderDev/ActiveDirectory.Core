@@ -2,7 +2,7 @@
 using System.DirectoryServices;
 using System.Security.Principal;
 
-namespace FewBox.ActiveDirectory.Core.Attribute.ValueAdapter
+namespace ActiveDirectory.NETStandard.Attribute.ValueAdapter
 {
     class SidAdapter : Adapter<string>
     {

@@ -4,7 +4,7 @@ using System.IO;
 using System.Reflection;
 using System.Xml;
 
-namespace FewBox.TestFramwork.Configuration
+namespace ActiveDirectory.Core.TestFramework.Configuration
 {
     public static class TF
     {

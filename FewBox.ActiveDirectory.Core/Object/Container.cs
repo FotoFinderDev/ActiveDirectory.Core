@@ -1,11 +1,11 @@
-﻿using FewBox.ActiveDirectory.Core.Attribute;
-using FewBox.ActiveDirectory.Core.Query;
-using FewBox.ActiveDirectory.Core.Query.Filter;
+﻿using ActiveDirectory.NETStandard.Attribute;
+using ActiveDirectory.NETStandard.Query;
+using ActiveDirectory.NETStandard.Query.Filter;
 using System;
 using System.Collections.Generic;
 using System.DirectoryServices;
 
-namespace FewBox.ActiveDirectory.Core.Object
+namespace ActiveDirectory.NETStandard.Object
 {
     public class Container : PackContainer
     {

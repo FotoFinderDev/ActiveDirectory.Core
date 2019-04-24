@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AssemblyName>ActiveDirectory.Core.TestFramwork</AssemblyName>
+    <RootNamespace>ActiveDirectory.Core.TestFramwork</RootNamespace>
   </PropertyGroup>
 
 </Project>

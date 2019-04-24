@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.DirectoryServices;
 using System.Security.Principal;
 
-namespace FewBox.ActiveDirectory.Core.Attribute.ValueAdapter
+namespace ActiveDirectory.NETStandard.Attribute.ValueAdapter
 {
     class SidsAdapter : Adapter<IList<string>>
     {

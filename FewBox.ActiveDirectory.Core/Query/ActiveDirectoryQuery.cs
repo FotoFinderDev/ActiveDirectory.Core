@@ -1,13 +1,13 @@
-﻿using FewBox.ActiveDirectory.Core.Attribute;
-using FewBox.ActiveDirectory.Core.Authentication;
-using FewBox.ActiveDirectory.Core.Object;
-using FewBox.ActiveDirectory.Core.Query.Filter;
+﻿using ActiveDirectory.NETStandard.Attribute;
+using ActiveDirectory.NETStandard.Authentication;
+using ActiveDirectory.NETStandard.Object;
+using ActiveDirectory.NETStandard.Query.Filter;
 using System;
 using System.Collections.Generic;
 using System.DirectoryServices;
 using System.Linq;
 
-namespace FewBox.ActiveDirectory.Core.Query
+namespace ActiveDirectory.NETStandard.Query
 {
     public static class ActiveDirectoryQuery
     {

@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AssemblyName>ActiveDirectory.Core.TestSuite</AssemblyName>
+    <RootNamespace>ActiveDirectory.Core.TestSuite</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
@@ -11,8 +13,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FewBox.ActiveDirectory.Core\FewBox.ActiveDirectory.Core.csproj" />
-    <ProjectReference Include="..\FewBox.TestFramwork\FewBox.TestFramwork.csproj" />
+    <ProjectReference Include="..\FewBox.ActiveDirectory.Core\ActiveDirectory.NETStandard.csproj" />
+    <ProjectReference Include="..\FewBox.TestFramwork\ActiveDirectory.Core.TestFramwork.csproj" />
   </ItemGroup>
 
   <ItemGroup>

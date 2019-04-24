@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace FewBox.ActiveDirectory.Core.Query.Filter
+namespace ActiveDirectory.NETStandard.Query.Filter
 {
     /// <summary>
     /// The AD and filter (Eg: (!{0})).

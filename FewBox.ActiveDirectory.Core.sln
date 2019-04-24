@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2018
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FewBox.ActiveDirectory.Core", "FewBox.ActiveDirectory.Core\FewBox.ActiveDirectory.Core.csproj", "{18BD8CD2-3C95-4ED2-862D-4F587F6EF15C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ActiveDirectory.NETStandard", "FewBox.ActiveDirectory.Core\ActiveDirectory.NETStandard.csproj", "{18BD8CD2-3C95-4ED2-862D-4F587F6EF15C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FewBox.TestFramwork", "FewBox.TestFramwork\FewBox.TestFramwork.csproj", "{80CC86EC-D538-44DE-A422-1A48E093DDF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ActiveDirectory.Core.TestFramwork", "FewBox.TestFramwork\ActiveDirectory.Core.TestFramwork.csproj", "{80CC86EC-D538-44DE-A422-1A48E093DDF5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FewBox.ActiveDirectory.Core.TestSuite", "FewBox.ActiveDirectory.Core.TestSuite\FewBox.ActiveDirectory.Core.TestSuite.csproj", "{471BA0F4-F6CD-4E91-A52E-E8D23D507699}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ActiveDirectory.Core.TestSuite", "FewBox.ActiveDirectory.Core.TestSuite\ActiveDirectory.Core.TestSuite.csproj", "{471BA0F4-F6CD-4E91-A52E-E8D23D507699}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

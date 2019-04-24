@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FewBox.ActiveDirectory.Core.Query.Filter
+namespace ActiveDirectory.NETStandard.Query.Filter
 {
     /// <summary>
     /// The AD and filter (Eg: (&amp;{0})).

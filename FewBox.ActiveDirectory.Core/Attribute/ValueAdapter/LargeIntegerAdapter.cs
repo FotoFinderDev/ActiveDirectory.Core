@@ -2,7 +2,7 @@
 using System.DirectoryServices;
 using System.Reflection;
 
-namespace FewBox.ActiveDirectory.Core.Attribute.ValueAdapter
+namespace ActiveDirectory.NETStandard.Attribute.ValueAdapter
 {
     class LargeIntegerAdapter : Adapter<DateTime>
     {

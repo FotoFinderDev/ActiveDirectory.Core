@@ -1,6 +1,6 @@
-﻿using FewBox.ActiveDirectory.Core.Attribute;
+﻿using ActiveDirectory.NETStandard.Attribute;
 
-namespace FewBox.ActiveDirectory.Core.Query.Filter
+namespace ActiveDirectory.NETStandard.Query.Filter
 {
     /// <summary>
     /// Is contact filter (Eg: (objectClass=contact)).

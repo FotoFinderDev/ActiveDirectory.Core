@@ -1,4 +1,4 @@
-﻿namespace FewBox.ActiveDirectory.Core.Query
+﻿namespace ActiveDirectory.NETStandard.Query
 {
     /// <summary>
     /// The query scope type.

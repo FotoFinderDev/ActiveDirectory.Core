@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FewBox.ActiveDirectory.Core.Attribute
+namespace ActiveDirectory.NETStandard.Attribute
 {
     /// <summary>
     /// The ADObject property original attriubte name custom attribute.

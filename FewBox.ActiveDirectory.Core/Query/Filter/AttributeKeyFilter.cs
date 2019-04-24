@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FewBox.ActiveDirectory.Core.Query.Filter
+namespace ActiveDirectory.NETStandard.Query.Filter
 {
     /// <summary>
     /// The base class of attricute only key filter.
@@ -12,7 +12,7 @@ namespace FewBox.ActiveDirectory.Core.Query.Filter
         /// <summary>
         /// The constructor with attribute name param.
         /// </summary>
-        /// <param name="attributeName">The attribute name which can be find in FewBox.ActiveDirectory.Entity.Attribute.Name namespace or custom set.</param>
+        /// <param name="attributeName">The attribute name which can be find in ActiveDirectory.Entity.Attribute.Name namespace or custom set.</param>
         protected AttributeKeyFilter(string attributeName)
         {
             this.AttributeName = attributeName;

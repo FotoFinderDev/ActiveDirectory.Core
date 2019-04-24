@@ -1,4 +1,4 @@
-﻿namespace FewBox.ActiveDirectory.Core.Query.Filter
+﻿namespace ActiveDirectory.NETStandard.Query.Filter
 {
     /// <summary>
     /// The AD has a value filter (Eg: ({0}=*)).
@@ -8,7 +8,7 @@
         /// <summary>
         /// The constructure with attribute name param (Eg: ({0}=*)).
         /// </summary>
-        /// <param name="attributeName">The attribute name which can be find in FewBox.ActiveDirectory.Entity.Attribute.Name namespace or custom set.</param>
+        /// <param name="attributeName">The attribute name which can be find in ActiveDirectory.Entity.Attribute.Name namespace or custom set.</param>
         public HasAValue(string attributeName)
             : base(attributeName)
         {

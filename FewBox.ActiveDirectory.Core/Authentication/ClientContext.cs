@@ -1,8 +1,8 @@
-﻿using FewBox.ActiveDirectory.Core.Exception;
+﻿using ActiveDirectory.NETStandard.Exception;
 using System;
 using System.DirectoryServices;
 
-namespace FewBox.ActiveDirectory.Core.Authentication
+namespace ActiveDirectory.NETStandard.Authentication
 {
     public class ClientContext: IDisposable
     {

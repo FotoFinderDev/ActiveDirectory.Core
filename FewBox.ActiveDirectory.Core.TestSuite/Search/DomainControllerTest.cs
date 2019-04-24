@@ -1,8 +1,8 @@
-﻿using FewBox.ActiveDirectory.Core.Object;
-using FewBox.TestFramwork.Configuration;
+﻿using ActiveDirectory.NETStandard.Object;
+using ActiveDirectory.Core.TestFramework.Configuration;
 using NUnit.Framework;
 
-namespace FewBox.ActiveDirectory.Core.TestSuite.Search
+namespace ActiveDirectory.NETStandard.TestSuite.Search
 {
     class DomainControllerTest : BaseTest
     {
